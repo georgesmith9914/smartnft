@@ -1,4 +1,4 @@
-# smartnft
+# Smart Social NFT
 
 Build smart, social NFTs and have fun!
 

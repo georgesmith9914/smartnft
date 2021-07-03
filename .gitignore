@@ -1,0 +1,6 @@
+minty/node_modules
+minty/artifacts
+minty/cache
+minty/hardhat-config.js
+minty/config/.env
+package-lock.json

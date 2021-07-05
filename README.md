@@ -1,4 +1,4 @@
-# Smart Social NFT
+# Smart Social NFTs
 
 Why are your NFTs static?
 Build smart, interactive, social NFTs and have fun!
